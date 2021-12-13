@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0pQToYb58Y6iOQueihJ8MU",
+    "name" : "Yha_Sample",
+    "type" : "PROCESS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "JOSM8NciZBpDUQb-gt-5194-2021-12-13T03:53:14.571Z::pd.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ ]
+}
