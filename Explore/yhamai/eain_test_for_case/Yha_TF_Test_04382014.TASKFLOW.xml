@@ -13,7 +13,7 @@
       <types1:CreatedBy>yhamai@informatica.com</types1:CreatedBy>
       <types1:CreationDate>2022-09-27T09:19:32Z</types1:CreationDate>
       <types1:ModifiedBy>yhamai@informatica.com</types1:ModifiedBy>
-      <types1:ModificationDate>2022-10-19T07:50:24Z</types1:ModificationDate>
+      <types1:ModificationDate>2022-10-19T07:53:46Z</types1:ModificationDate>
       <types1:PublicationStatus>unpublished</types1:PublicationStatus>
       <types1:AutosaveExists>false</types1:AutosaveExists>
       <types1:Entry>
@@ -71,11 +71,11 @@
                      <serviceInput>
                         <parameter name="Task Name" source="constant">コマンドタスク 1</parameter>
                         <parameter name="Wait for Task to Complete" source="constant">true</parameter>
-                        <parameter name="Runtime Environment" source="constant">01036725000000000038:SA_Group_001</parameter>
+                        <parameter name="Runtime Environment" source="constant">01036725000000000026:zonix_rhel</parameter>
                         <parameter name="Script Name" source="constant">/opt/infa1/scripts/Sample.sh</parameter>
                         <parameter name="Input Arguments" source="constant"/>
                         <parameter name="Work Directory" source="constant"/>
-                        <parameter name="RuntimeEnvGUID" source="constant">9H8qgRS32gcjFihaLY7iOG</parameter>
+                        <parameter name="RuntimeEnvGUID" source="constant">5lPFlVKipwPjCTzvu5ogwu</parameter>
                      </serviceInput>
                      <serviceOutput>
                         <operation source="field" to="temp.コマンドタスク 1/output/Run_Id">Run Id</operation>
@@ -242,5 +242,5 @@
       <types1:GUID>aUXRRJolyAklOuYvnkHYi5</types1:GUID>
       <types1:DisplayName>Yha_TF_Test_04382014</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2022-10-19T07:51:24.032Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2022-10-24T09:15:20.66Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>

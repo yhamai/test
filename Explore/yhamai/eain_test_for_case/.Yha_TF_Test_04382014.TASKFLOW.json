@@ -21,8 +21,8 @@
   },
   "dataFileExtension" : "xml",
   "objectRefs" : [ {
-    "id" : "9H8qgRS32gcjFihaLY7iOG",
-    "name" : "SA_Group_001",
+    "id" : "5lPFlVKipwPjCTzvu5ogwu",
+    "name" : "zonix_rhel",
     "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
@@ -30,7 +30,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01036725000000000038"
+        "repoHandle" : "01036725000000000026"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
